@@ -1,0 +1,14 @@
+{
+    "name": "toschiba/_app",
+    "authors": [
+        {
+            "name": "moussa221",
+            "email": "68646181+moussa221@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {}
+    },
+    "require": {}
+}
+
